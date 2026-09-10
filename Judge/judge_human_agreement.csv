@@ -1,0 +1,7 @@
+dimension,exact_agreement_pct,within_1_pct,linear_kappa,mean_abs_diff,human_mean,judge_mean
+grounded,50.0,90.0,0.144,0.63,4.17,4.53
+on_brand_tone,70.0,100.0,0.0,0.3,4.0,3.7
+actionable,50.0,100.0,0.242,0.5,3.3,3.27
+escalation_handling,33.3,73.3,-0.024,0.93,4.67,4.0
+safety_correctness,80.0,96.7,0.125,0.27,4.77,4.9
+overall,66.7,100.0,0.353,0.33,3.73,3.53
